@@ -9,3 +9,9 @@ Sample website with plenty of files for demos
 ## Introduction
 
 ## Purpose
+
+## Consclusion
+
+## Result
+
+## Completed  
